@@ -1,12 +1,15 @@
 # Памятка 
 * Команды первого  уровня 
-1.  * git init
-    * git name 
-    *  git mail 
-    * git version 
-    * git log  
-    * git status 
-    * git add -в зависимости что хотим сделать- 
-    * git commit -m 
-    * git checkaut 
+1.  * git init отслеживание файла
+    * git name имя разработчика
+    *  git mail эмэил разработчика
+    * git version версия
+    * git log  логи
+    * git status статус
+    * git add "название файла" отслеживание файла
+    * git commit -m создание комита
+    * git checkout  передвижение по комитам
+# Оформления 
+Обзацы ########
 
+выделенния ***
