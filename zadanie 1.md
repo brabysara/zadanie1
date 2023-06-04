@@ -39,7 +39,7 @@
 Полная замена с конфликтом  надеюсь на этот раз получится 
 
 # 2
-The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
+слили ветку с существующей веткой при конфликт, текст в ветке мастер не заменяли 
 
 # 3 
 The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
