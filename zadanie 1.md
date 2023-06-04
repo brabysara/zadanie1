@@ -33,17 +33,16 @@
 
  выделенния ***
 
+# Ветки и их конфликты 
+
+# 1 
 
 
-# Ветка 1 
-* очень важная информация 1
-* очень важная информация 2
-* очень важная информация 3
-# Ветка 2 
+# 2
+слили ветку с существующей веткой при конфликт, текст в ветке мастер не заменяли 
 
+# 3 
+The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
 
-# Ветка 3 
-Просто вставили информацию с другой ветки 
-
-# Ветка 4
-ни чего  
+# 4 
+The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
