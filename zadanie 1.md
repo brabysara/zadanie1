@@ -36,17 +36,13 @@
 # Ветки и их конфликты 
 
 # 1 
-Полная замена с конфликтом 
+The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
 
 # 2
-
-# 1 
-
+The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
 
 # 3 
-
-# 3 
-
+The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
 
 # 4 
 останется текст из ветки мастер.
