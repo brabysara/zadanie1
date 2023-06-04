@@ -45,4 +45,4 @@ The branch 'vetka1' is not fully merged. If you are sure you want to delete it, 
 The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
 
 # 4 
-The branch 'vetka1' is not fully merged. If you are sure you want to delete it, run 'git branch -D vetka1'. перевод
+останется текст из ветки мастер.
